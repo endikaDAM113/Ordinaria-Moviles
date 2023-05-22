@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/WebOpen"
+        android:title="Abrir Web"
+        android:icon="@drawable/ic_web"
+        app:showAsAction="always"
+        android:tooltipText="Abrir Pagina Web"/>
+</menu>

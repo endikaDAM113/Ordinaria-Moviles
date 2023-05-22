@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome_to_my_movies">Welcome to My Movies</string>
+    <string name="welcome">Welcome</string>
+    <string name="movies_list">Movies List</string>
+    <string name="movie_detail">Movie Detail</string>
+    <string name="back_to_list">Back to Movies List</string>
+    <string name="action_mail">send e-mail</string>
+    <string name="surf_imdb">Surf IMDB web</string>
+    <string name="mail_subject">Query about IMDB API</string>
+</resources>

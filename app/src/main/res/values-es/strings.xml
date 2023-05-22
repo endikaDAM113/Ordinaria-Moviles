@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ordinaria 2023</string>
+    <string name="welcome_to_my_movies">Bienvenido a Mis Películas</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="movies_list">Lista de Películas</string>
+    <string name="movie_detail">Detalle de la Película</string>
+    <string name="back_to_list">Volver a la Lista de Películas</string>
+    <string name="action_mail">Enviar e-mail</string>
+    <string name="surf_imdb">Navegar a IMDB</string>
+    <string name="mail_subject">Consulta sobre la API de IMDB</string>
+    <string name="go_to_movies">Ir a Películas</string>
+</resources>
